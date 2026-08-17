@@ -305,7 +305,7 @@ This project was developed as part of the **Database Management System (DBMS) La
 
 We are grateful to our course instructor for the guidance, feedback, and support provided throughout the project development process.
 
----
+----
 
 ## 📄 License
 
