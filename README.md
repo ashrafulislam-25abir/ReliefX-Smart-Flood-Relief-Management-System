@@ -55,5 +55,6 @@ flowchart TD
     H --> M["Transactions + Row Locks"]
 
     C --> N["Leaflet + OpenStreetMap"]
+<img width="1372" height="808" alt="image" src="https://github.com/user-attachments/assets/df41af17-a1aa-4b05-8a0f-bda42938d688" />
 
     
